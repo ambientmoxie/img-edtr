@@ -1,6 +1,6 @@
 {
-  "name": "image-editor",
-  "description": "Web tool for editing and downloading images",
+  "name": "img-edtr",
+  "description": "Web tool for editing pre-branded images.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
