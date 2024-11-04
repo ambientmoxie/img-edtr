@@ -4,7 +4,7 @@
   import LastUpdate from "./lib/components/Main/LastUpdate.svelte";
   import { generateFavIcon } from "./lib/js/helpers";
 
-  generateFavIcon("#00e");
+  generateFavIcon("#000");
 </script>
 
 <header>
